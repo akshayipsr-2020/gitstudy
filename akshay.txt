@@ -1,3 +1,7 @@
 first versio plus some new data
+<<<<<<< HEAD
 adding branching concepts
 but failes 
+=======
+almost fine working
+>>>>>>> testbranch
